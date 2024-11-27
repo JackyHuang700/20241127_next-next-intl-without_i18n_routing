@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "title": "你好世界!",
+    "changeLanguage": "你好 {user}, 切換語言到繁體中文"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "changeLanguage": "Hi {user}, Change language to english"
+  }
+}
